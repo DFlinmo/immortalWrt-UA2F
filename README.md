@@ -6,6 +6,8 @@
 
 源码：https://github.com/immortalWrt/immortalWrt 21.02分支
 
+斐讯布局刷入
+
 插件：https://github.com/Zxilly/UA2F
 
 教程：https://blog.doreoom.com/736.html
