@@ -13,7 +13,7 @@
 <h2>NanoPiR2S ： <h2>
 下载地址：https://github.com/DFlinmo/Actions-immortalWrt-UA2F/releases
 </br>
-.config来自：https://github.com/DFlinmo/nanopi-openwrt
+.config来自：https://github.com/klever1988/nanopi-openwrt
 </br>
 源码：https://github.com/immortalWrt/immortalWrt
 </br>
